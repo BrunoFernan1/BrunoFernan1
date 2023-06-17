@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello! My name is Bruno, and welcome to my GitHub 😊
 
-<!--
-**BrunoFernan1/BrunoFernan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="">
+  <a href="https://github.com/BrunoFernan1">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BrunoFernan1&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFernan1&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ 
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+          
+  
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+</div>
+
+#
+
+###
+
+ ![Snake animation](https://github.com/BrunoFernan1/BrunoFernan1/blob/output/github-contribution-grid-snake.svg)
