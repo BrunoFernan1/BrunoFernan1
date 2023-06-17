@@ -25,5 +25,3 @@
 #
 
 ###
-
- ![Snake animation](https://github.com/BrunoFernan1/BrunoFernan1/blob/output/github-contribution-grid-snake.svg)
